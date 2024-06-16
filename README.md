@@ -13,7 +13,7 @@
 
 2.支持更换图片位置，删除任意图片，窗口下方可以实时预览成品图，满意再点击生成图像
 
-![img](https://picosssuyin.oss-cn-beijing.aliyuncs.com/img-typora/forum.php)
+![image-20240616234119943](https://picosssuyin.oss-cn-beijing.aliyuncs.com/img-typora/image-20240616234119943.png)
 
 3.支持横屏平铺图片和竖向长图生成
 
@@ -32,7 +32,7 @@
 
 5.支持检测更新，没有设置运行主程序即检测更新，是因为运行程序检测更新会有点卡，所以设置了只有点击检测更新才会开始检测
 
-![img](https://picosssuyin.oss-cn-beijing.aliyuncs.com/img-typora/forum.php)
+![image-20240616234146314](https://picosssuyin.oss-cn-beijing.aliyuncs.com/img-typora/image-20240616234146314.png)
 
 6.支持png.jpg.webp.ico等格式
 
@@ -43,7 +43,10 @@
 蓝奏云 ： https://wwm.lanzout.com/b02z0x18qh
 密码:64x1
 
+
+
 123网盘 ：https://www.123pan.com/s/gTp9-DiIr.html
+
 
 
 夸克网盘： https://pan.quark.cn/s/f62bc7b076ce
