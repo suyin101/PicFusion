@@ -9,7 +9,7 @@
 
 1.快速选择多张图片，支持直接拖放图片进入窗口
 
-![img](https://picosssuyin.oss-cn-beijing.aliyuncs.com/img-typora/1111.gif)
+![1111.gif](https://www.freeimg.cn/i/2024/06/22/66764979d4bfa.gif)
 
 2.支持更换图片位置，删除任意图片，窗口下方可以实时预览成品图，满意再点击生成图像
 
